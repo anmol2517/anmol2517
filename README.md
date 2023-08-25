@@ -7,3 +7,4 @@
          return 0;
 
         Output reloading........
+My words - A.I. is far more dangerous than nukes
