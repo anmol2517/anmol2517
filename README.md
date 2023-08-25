@@ -8,4 +8,4 @@
 
         Output reloading........
 
-        My words - A.I. is far more dangerous than nukes
+        A.I. is far more dangerous than nukes....!
