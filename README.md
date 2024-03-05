@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm AnmoL</h1>
 <h3 align="center">”Software Engineer with adept problem-solving skills and strong team collaboration abilities. Passionate about continuously acquiring new skills and gaining diverse experiences.”</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ad28cab36fa44e2f77a63970bcbb06660efdd314ed9168ec140d7b222dc2ae9e/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmol2517&label=Profile%20views&color=0e75b6&style=flat" alt="anmol2517" /> </p>
 
 - 📫 How to reach me **ianmolkumar25@gmail.com**
