@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AnmoL</h1>
-<h3 align="center">”Software Engineer with adept problem-solving skills and strong team collaboration abilities. Passionate about continuously acquiring new skills and gaining diverse experiences.”</h3>
+<h3 align="center">”Software Engineer with adept problem-solving skills and strong team collaboration abilities. Passionate about continuously acquiring new skills and gaining diverse experiences.”</h3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmol2517&label=Profile%20views&color=0e75b6&style=flat" alt="anmol2517" /> </p>
 
