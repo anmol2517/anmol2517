@@ -1,27 +1,123 @@
-# 💫 About Me:
-🌟 About Me<br>- Hi, I'm Anmol Kumar, an Associate Software Engineer currently working at Tech 4 Logic Pvt Ltd.<br><br>🚀 What I’m Working On:<br>- Developing innovative solutions using Java, J2EE, and Spring Boot.<br>- Exploring DevOps practices and enhancing system performance.<br><br>🤝 Looking to Collaborate On:<br>- Next.js projects for building modern, dynamic web applications.<br>- Cloud-based solutions leveraging Google Cloud Platform (GCP) and AWS.<br><br>💡 Looking for Help With:<br>- Advanced DevOps pipelines and infrastructure optimization.<br>- Best practices in Next.js for scalable applications.<br><br>🎓 Currently Learning:<br>- Next.js will expand my full-stack development skills.<br>- Advanced features of AWS and GCP.<br><br>💬 Ask Me About:<br>- Java Development, including RESTful APIs and enterprise-level applications.<br>- My experience with Google Workspace and cloud technologies.<br><br>🎉 Fun Fact:<br>- I’ve solved 500+ problems on LeetCode and hold a 5-star rating on HackerRank!<br><br>📫 Let’s Connect:<br>- Check out my repositories and feel free to collaborate!
+<div align="center">
 
+```
+  ██████╗  ██████╗ ██████╗ ███████╗    ██╗███████╗    ██╗     ██╗███████╗███████╗
+ ██╔════╝ ██╔═══██╗██╔══██╗██╔════╝    ██║██╔════╝    ██║     ██║██╔════╝██╔════╝
+ ██║      ██║   ██║██║  ██║█████╗      ██║███████╗    ██║     ██║█████╗  █████╗  
+ ██║      ██║   ██║██║  ██║██╔══╝      ██║╚════██║    ██║     ██║██╔══╝  ██╔══╝  
+ ╚██████╗ ╚██████╔╝██████╔╝███████╗    ██║███████║    ███████╗██║██║     ███████╗
+  ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝╚══════╝    ╚══════╝╚═╝╚═╝     ╚══════╝
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmolkumarr25/) 
+### धन्य: अस्मि भारतत्वेन 🇮🇳
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anmol&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anmol&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anmol&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Associate Software Engineer @ Tech 4 Logic** · Java & Spring Boot · Cloud Enthusiast · 500+ LeetCode
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anmol&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmolkumarr25/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/anmol2517)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5★-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anmol&limit=5&theme=react&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anmol&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏙️ About Me
+
+> *Building robust systems by day, solving algorithms by night.*
+
+- 🔭 **Currently Building** → Enterprise apps with **Java, J2EE & Spring Boot** at Tech 4 Logic
+- 🌱 **Learning** → **Next.js** for full-stack + Advanced **AWS & GCP**
+- 🤝 **Open to Collaborate** → Next.js projects · Cloud-native solutions · DevOps pipelines
+- ⚡ **500+ LeetCode** problems solved · **5⭐ HackerRank** rating
+- 📍 **India** · UTC +5:30
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Backend & Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anmol2517&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol2517&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol2517&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anmol2517&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🔝 Top Contributions
+
+<div align="center">
+
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=anmol2517&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/anmol2517)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [☁️ Cloud Hosting Interfaces](https://github.com/anmol2517/Cloud-Hosting-Interfaces) | Responsive website for an imaginary cloud hosting service *Hostify* | HTML, CSS, JS |
+| [🎵 Track Dreamer](https://github.com/anmol2517/Track-Dreamer) | Browser-based music player with smooth playback controls | HTML, CSS, JS |
+| [🌦️ Weather Web App](https://github.com/anmol2517/Weather-Web-App) | Real-time weather information app | HTML, CSS, JS |
+| [📊 Netflix Dashboard](https://github.com/anmol2517/Netflix-Dashboard) | Tableau-powered data visualization for Netflix analytics | Jupyter, Tableau |
+| [✈️ Travel.Com](https://github.com/anmol2517/Travel.Com) | Full-stack travel site with PHP backend & contact form DB | HTML, CSS, PHP |
+
+---
+
+<div align="center">
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=anmol2517&icon=0&color=6)](https://visitcount.itsvg.in)
+
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+
+</div>
