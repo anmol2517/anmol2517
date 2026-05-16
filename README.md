@@ -1,12 +1,8 @@
 <div align="center">
 
-![Git City](https://raw.githubusercontent.com/anmol2517/anmol2517/main/city.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=3000&pause=500&color=CAFF00&center=true&vCenter=true&width=700&height=80&lines=GIT+CITY+%F0%9F%8F%99%EF%B8%8F;WHERE+CODE+BUILDS+CITIES)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=CAFF00&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer+%40+Tech+4+Logic;500%2B+LeetCode+Problems+Solved+%F0%9F%8E%AF;5+Star+HackerRank+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90;Java+%7C+Spring+Boot+%7C+AWS+%7C+GCP;%E0%A4%A7%E0%A4%A8%E0%A5%8D%E0%A4%AF%3A+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BF+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A8+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=CAFF00&center=true&vCenter=true&width=700&lines=Associate+Software+Engineer+%40+Tech+4+Logic;500%2B+LeetCode+Problems+Solved+%F0%9F%8E%AF;5+Star+HackerRank+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90;Java+%7C+Spring+Boot+%7C+AWS+%7C+GCP;%E0%A4%A7%E0%A4%A8%E0%A5%8D%E0%A4%AF%3A+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BF+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A8+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 </div>
 
@@ -116,6 +112,8 @@
   ACTIVITY →  Windows LIT UP     █████████████████░░░  85%
 ```
 
+> *Jitne zyada commits, utni unchi building. Yeh Git City hai — where code builds cities.* 🏙️
+
 ---
 
 ## 🌐 CONNECT — JOIN SESSION
@@ -131,23 +129,15 @@
 
 ---
 
-## 🔝 TOP CONTRIBUTIONS
-
 <div align="center">
 
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=anmol2517&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/anmol2517)
-
-</div>
-
----
-
-<div align="center">
+```
+  EXPLORE  ·  FLY  ·  DISCOVER
+```
 
 ```
   धन्य: अस्मि भारतत्वेन  🇮🇳
   Building my city, one commit at a time  🏙️
 ```
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=anmol2517&icon=6&color=3&label=PLAYERS+ONLINE)](https://visitcount.itsvg.in)
 
 </div>
