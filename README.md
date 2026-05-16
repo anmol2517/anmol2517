@@ -1,6 +1,17 @@
 <div align="center">
 
-![Git City](./city.svg)
+```
+ ██████╗ ██╗████████╗     ██████╗██╗████████╗██╗   ██╗
+██╔════╝ ██║╚══██╔══╝    ██╔════╝██║╚══██╔══╝╚██╗ ██╔╝
+██║  ███╗██║   ██║       ██║     ██║   ██║    ╚████╔╝
+██║   ██║██║   ██║       ██║     ██║   ██║     ╚██╔╝
+╚██████╔╝██║   ██║       ╚██████╗██║   ██║      ██║
+ ╚═════╝ ╚═╝   ╚═╝        ╚═════╝╚═╝   ╚═╝      ╚═╝
+```
+
+```
+            WHERE CODE BUILDS CITIES
+```
 
 </div>
 
@@ -8,7 +19,31 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=CAFF00&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer+%40+Tech+4+Logic;500%2B+LeetCode+Problems+Solved+%F0%9F%8E%AF;5+Star+HackerRank+Rating+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90;Java+%7C+Spring+Boot+%7C+AWS+%7C+GCP;%E0%A4%A7%E0%A4%A8%E0%A5%8D%E0%A4%AF%3A+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BF+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A8+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+```
+                          ___
+                         [A]         <- ANMOL'S BUILDING (TALLEST)
+                        [|||]
+                       [|||||]
+                      [|||||||]
+          __          [|||||||]          __         ____
+         [  ]        [|||||||||]        [  ]       [    ]
+        [||||]      [|||||||||||]      [||||]     [||||||]
+       [||||||]     [|||||||||||]     [||||||]    [||||||]
+      [||||||||]   [|||||||||||||]   [||||||||]  [||||||||]
+_____[________]___[_____________]___[________]__[________]_____
+```
+
+```
+     EXPLORE  ·  FLY  ·  DISCOVER        BY @ANMOL2517
+```
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=CAFF00&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer+%40+Tech+4+Logic;500%2B+LeetCode+Problems+Solved+%F0%9F%8E%AF;5+Star+HackerRank+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90;Java+%7C+Spring+Boot+%7C+AWS+%7C+GCP;%E0%A4%A7%E0%A4%A8%E0%A5%8D%E0%A4%AF%3A+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BF+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A8+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +59,7 @@
 │  REGION    ►  India  (UTC +05:30)  🇮🇳                       │
 │  BUILDING  ►  TALLEST IN THE CITY  🏙️                        │
 │  XP        ►  500+ LeetCode  ·  5★ HackerRank               │
-│  QUEST     ►  Learning Next.js + AWS + GCP                   │
+│  QUEST     ►  Mastering Next.js + AWS + GCP                  │
 │  STATUS    ►  🟢 ONLINE — Open to collaborate                │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -63,15 +98,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anmol2517&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=111111&title_color=CAFF00&text_color=CAFF00&icon_color=CAFF00" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anmol2517&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol2517&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=111111&title_color=CAFF00&text_color=CAFF00" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol2517&theme=chartreuse-dark&hide_border=true&layout=compact" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol2517&theme=chartreuse-dark&hide_border=true&background=111111&ring=CAFF00&fire=CAFF00&currStreakLabel=CAFF00&sideLabels=CAFF00&dates=888888"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol2517&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
@@ -90,7 +125,7 @@
   ✅  HACKERRANK ELITE    —  5 Star rating achieved
   ✅  CLOUD EXPLORER      —  AWS + GCP learner
   ✅  FULL STACK RECRUIT  —  Java · Node · Next.js
-  ✅  CITY BUILDER        —  21 repos · tallest building 🏙️
+  ✅  CITY BUILDER        —  21 repos · TALLEST BUILDING 🏙️
   🔒  DEVOPS VETERAN      —  [ IN PROGRESS... ]
   🔒  OPEN SOURCE HERO    —  [ LOCKED ]
 ```
@@ -111,8 +146,6 @@
 
 ## 🏙️ HOW MY BUILDING WORKS
 
-> *Just like Git City — every commit makes me taller.*
-
 ```
   COMMITS  →  Building HEIGHT    ████████████████░░░░  78%
   REPOS    →  Building WIDTH     █████████████░░░░░░░  65%
@@ -128,7 +161,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmolkumarr25/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmol2517)
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B-CAFF00?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/anmol2517/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/anmol2517/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-5%E2%98%85-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anmol2517)
 
 </div>
@@ -146,10 +179,6 @@
 ---
 
 <div align="center">
-
-```
-  EXPLORE  ·  FLY  ·  DISCOVER
-```
 
 ```
   धन्य: अस्मि भारतत्वेन  🇮🇳
